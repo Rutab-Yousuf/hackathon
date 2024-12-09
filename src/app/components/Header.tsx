@@ -12,9 +12,8 @@ import {
   FaUser,
 } from "react-icons/fa";
 import { RiArrowDropDownLine } from "react-icons/ri";
-import { GiHamburgerMenu } from "react-icons/gi";
 import Link from "next/link";
-import { useState } from "react";
+
 
 const Header = () => {
   return (
@@ -55,14 +54,14 @@ const Header = () => {
           className="p-4 h-52 flex flex-col justify-center lap:h-auto tab:p-6 lap:flex lap:items-center lap:justify-evenly lap:mt-16 mb-10
         "
         >
+
+          
           {/* Title Section (Bandage on the Right) */}
           <div className="font-bold text-2xl ml-auto absolute left-10 top-14 lap:top-[72px] ">
             <h3>Bandage</h3>
           </div>
 
-          {/* Main Content Section: Links and Login/Register */}
-          {/* <div className="relative left-52 top-1"> */}
-          {/* <div className="flex items-center justify-between w-full "> */}
+       
 
           {/* Navigation Links */}
           <div className="  absolute left-66 top-24 lap:top-20 ">
