@@ -18,7 +18,7 @@ const ProductCards = () => {
         <div className="flex flex-1 flex-col gap-[10px] items-center">
           <p className="text-grey-text text-sm">FEATURED PRODUCTS</p>
           <h2 className="text-2xl font-bold text-dark-blue">
-            BESTSELLER'S PRODUCT
+            BESTSELLERS PRODUCT
           </h2>
           <p className="text-grey-text text-sm">
             Problems trying to resolve the conflict between

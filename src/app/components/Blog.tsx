@@ -37,10 +37,10 @@ const Blog = () => {
           <div className="flex flex-col text-left gap-2 pr-10 pl-6 pt-6">
                 <div className='flex text-grey-text gap-4'> <a className="hover:text-sky-blue" href="#">  Google </a> <a className="hover:text-sky-blue" href="#"> Trending </a> <a className="hover:text-sky-blue" href="#"> New </a> </div>
                 <h4 className="text-dark-blue text-xl">
-                  Loudest à la Madison #1 (L'integral)
+                  Loudest à la Madison #1 (L integral)
                 </h4>
                 <p className="text-grey-text text-sm">
-                  We focus on ergonomics and meeting you where you work. It's
+                  We focus on ergonomics and meeting you where you work. Its
                   only a keystroke away.
                 </p>
                 <div className='flex justify-between text-xs'>
@@ -64,10 +64,10 @@ const Blog = () => {
           <div className="flex flex-col text-left gap-2 pr-10 pl-6 pt-6">
                 <div className='flex text-grey-text gap-4'> <a className="hover:text-sky-blue" href="#">  Google </a> <a className="hover:text-sky-blue" href="#"> Trending </a> <a className="hover:text-sky-blue" href="#"> New </a> </div>
                 <h4 className="text-dark-blue text-xl">
-                  Loudest à la Madison #1 (L'integral)
+                  Loudest à la Madison #1 (L integral)
                 </h4>
                 <p className="text-grey-text text-sm">
-                  We focus on ergonomics and meeting you where you work. It's
+                  We focus on ergonomics and meeting you where you work. Its
                   only a keystroke away.
                 </p>
                 <div className='flex justify-between text-xs'>
@@ -92,10 +92,10 @@ const Blog = () => {
           <div className="flex flex-col text-left gap-2 pr-10 pl-6 pt-6">
                 <div className='flex text-grey-text gap-4'> <a className="hover:text-sky-blue" href="#">  Google </a> <a className="hover:text-sky-blue" href="#"> Trending </a> <a className="hover:text-sky-blue" href="#"> New </a> </div>
                 <h4 className="text-dark-blue text-xl">
-                  Loudest à la Madison #1 (L'integral)
+                  Loudest à la Madison #1 (L integral)
                 </h4>
                 <p className="text-grey-text text-sm">
-                  We focus on ergonomics and meeting you where you work. It's
+                  We focus on ergonomics and meeting you where you work. Its
                   only a keystroke away.
                 </p>
                 <div className='flex justify-between text-xs'>

@@ -11,7 +11,7 @@ const ShopCards = () => {
       <div className="flex flex-col gap-12 py-20">
         {/* text */}
         <div className="flex flex-1 flex-col gap-[10px] items-center">
-          <h2 className="text-2xl font-bold text-dark-blue">EDITOR'S PICK</h2>
+          <h2 className="text-2xl font-bold text-dark-blue">EDITORS PICK</h2>
           <p className="text-grey-text text-sm">
             Problems trying to resolve the conflict between
           </p>
