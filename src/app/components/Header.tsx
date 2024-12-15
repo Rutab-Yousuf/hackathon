@@ -66,7 +66,7 @@ const Header = () => {
           
           {/* Title Section (Bandage on the Right) */}
           <div className=" flex justify-center tab:justify-between lap:block font-bold text-2xl lap:text-3xl absolute left-10 top-10 tab:top-14 lap:top-[72px] ">
-            <div><h3>Bandage</h3></div>
+            <div><h3 className="font-montserrat">Bandage</h3></div>
             <div className="flex ml-16 items-center gap-4 tab:hidden">
               <FaSearch />
               <FaShoppingCart />

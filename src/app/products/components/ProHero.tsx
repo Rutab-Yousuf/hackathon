@@ -221,9 +221,9 @@ const ProHero = () => {
               </h2>
               <div className="flex flex-col gap-4 mt-2 text-gray-700">
                 <p> ★★★★☆ (4.5/5)</p>
-                <p>"Great product, very useful!" - Customer 1</p>
-                <p>"Good value for money." - Customer 2</p>
-                <p>"Not satisfied with the quality." - Customer 3</p>
+                <p>Great product, very useful! - Customer 1</p>
+                <p>Good value for money. - Customer 2</p>
+                <p>Not satisfied with the quality. - Customer 3</p>
               </div>
             </div>
           </div>

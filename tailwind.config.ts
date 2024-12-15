@@ -14,7 +14,7 @@ export default {
     },
     extend: {
       fontFamily: {
-        'montserrat': ['Montserrat', 'sans-serif']
+        'montserrat': ['var(--font-montserrat)', 'sans-serif']
       },
       colors: {
         'grey-text': '#737373',
