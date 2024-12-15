@@ -1,7 +1,7 @@
 import React from "react";
 import Image from "next/image";
 import Logo from "./logo";
-import client from "../Assets/workclient.png";
+import client from "../assets/workclient.png";
 
 const Clients = () => {
   return (

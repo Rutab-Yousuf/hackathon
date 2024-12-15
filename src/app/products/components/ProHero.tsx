@@ -2,7 +2,7 @@
 import React from "react";
 import { FaGreaterThan } from "react-icons/fa";
 import Image from "next/image";
-import hero from "../Assets/single-product-1-cover-2.jpg";
+import hero from "../assets/Background.jpg";
 import { FaHeart } from "react-icons/fa6";
 import { FaEye } from "react-icons/fa";
 import { IoCartOutline } from "react-icons/io5";

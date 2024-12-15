@@ -1,11 +1,11 @@
 import React from "react";
 import Image from "next/image";
-import logo1 from "../Assets/client1.png";
-import logo2 from "../Assets/client2.png";
-import logo3 from "../Assets/client3.png";
-import logo4 from "../Assets/client4.png";
-import logo5 from "../Assets/client5.png";
-import logo6 from "../Assets/client6.png";
+import logo1 from "../assets/client1.png";
+import logo2 from "../assets/client2.png";
+import logo3 from "../assets/client3.png";
+import logo4 from "../assets/client4.png";
+import logo5 from "../assets/client5.png";
+import logo6 from "../assets/client6.png";
 
 const logo = () => {
   return (

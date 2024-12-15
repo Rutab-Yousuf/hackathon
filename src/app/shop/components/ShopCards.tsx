@@ -1,11 +1,11 @@
 import React from "react";
 import { FaGreaterThan } from "react-icons/fa6";
 import Image from "next/image";
-import card1 from "../Assets/card-cover-1.jpg";
-import card2 from "../Assets/card-cover-2.jpg";
-import card3 from "../Assets/card-cover-3.jpg";
-import card4 from "../Assets/card-cover-4.jpg";
-import card5 from "../Assets/card-cover-5.jpg";
+import card1 from "../assets/card-cover-1.jpg";
+import card2 from "../assets/card-cover-2.jpg";
+import card3 from "../assets/card-cover-3.jpg";
+import card4 from "../assets/card-cover-4.jpg";
+import card5 from "../assets/card-cover-5.jpg";
 import { BsGridFill } from "react-icons/bs";
 import { PiListBulletsBold } from "react-icons/pi";
 

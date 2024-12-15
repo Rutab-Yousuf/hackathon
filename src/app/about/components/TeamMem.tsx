@@ -1,9 +1,9 @@
 import React from "react";
 import Image from "next/image";
 import { FaFacebook, FaTwitter, FaInstagram } from "react-icons/fa6";
-import card1 from "../Assets/team-1-user-1.jpg";
-import card2 from "../Assets/team-1-user-2.jpg";
-import card3 from "../Assets/team-1-user-3.jpg";
+import card1 from "../assets/team-1-user-1.jpg";
+import card2 from "../assets/team-1-user-2.jpg";
+import card3 from "../assets/team-1-user-3.jpg";
 
 const TeamMem = () => {
   return (

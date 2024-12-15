@@ -1,7 +1,7 @@
 import React from "react";
 import Image from "next/image";
-import hero from "../Assets/bgabout.png";
-import video from "../Assets/Video card.png";
+import hero from "../assets/bgabout.png";
+import video from "../assets/Video card.png";
 const HeroSec = () => {
   return (
     <div>
