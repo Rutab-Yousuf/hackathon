@@ -5,11 +5,15 @@ import ProductCards from "./components/ProductCards";
 import Carousel from "./components/Carousel";
 import Neural from "./components/Neural";
 import Blog from "./components/Blog";
+import Header from "./components/Header";
 
 const Home = () => {
   return (
     <div>
       <main className="w-full">
+        {/* Header and Navbar  */}
+        <Header />
+
         {/* hero section */}
         <HeroSec />
 

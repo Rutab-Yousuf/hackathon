@@ -1,10 +1,18 @@
 import React from 'react'
-import Carousel from '../components/Carousel'
-
+import Header from './components/SecHeader'
+import AboutHero from './components/AboutHero'
+import TeamMem from './components/TeamMem'
+import Clients from './components/Clients'
 const page = () => {
   return (
     <div>
-        <Carousel/>
+        <Header/>
+
+        <AboutHero/>
+
+        <TeamMem/>
+
+        <Clients/>
     </div>
   )
 }

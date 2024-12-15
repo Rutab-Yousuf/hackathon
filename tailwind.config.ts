@@ -25,7 +25,7 @@ export default {
         'off-white': '#FAFAFA',
         'dark-green': '#23856D',
         'orange': '#E77C40',
-        
+        'blue': '#2A7CC7'
       },
     },
   },

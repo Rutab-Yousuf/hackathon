@@ -8,18 +8,18 @@ const Carousel = () => {
 
 
 {/* Text */}
-      <div className="w-[100%] tab:w-[70%] lap:w-[50%] flex flex-col text-start text-white gap-5 mt-5 px-20 lap:px-20">
+      <div className="w-[100%] tab:w-[70%] lap:w-[50%] flex flex-col text-center tab:text-left text-white gap-5 mt-5 px-16 tab:px-20">
         <h5 className="font-bold text-base">Summer 2020</h5>
-        <h1 className="font-bold text-3xl tab:text-4xl lap:text-6xl leading-snug tracking-wide">VITA CLASSIC PRODUCT </h1>
-        <h4 className="font-normal text-sm tab:text-lg lap:text-xl text-white">
+        <h1 className="font-bold text-3xl lap:text-6xl leading-snug tracking-wide">VITA CLASSIC PRODUCT </h1>
+        <h4 className="font-normal text-sm tab:text-md lap:text-xl text-white">
           Problems trying to resolve the conflict between the two major realms
           of Classical physics: Newtonian mechanics
         </h4>
-        <div className="flex mt-5 gap-[10px]">
-          <button className="text-sm font-bold text-center text-light-grey px-[40px] py-[15px] rounded-[5px]">
+        <div className="flex ml-5 mt-5 tab:ml-0 gap-[10px]">
+          <button className="text-sm font-bold text-center text-light-grey px-4 py-[15px] rounded-[5px]">
             $ 16.48
           </button>
-          <button className="text-sm font-bold text-center bg-green text-white px-[40px] py-[15px] rounded-[5px]">
+          <button className="text-sm font-bold text-center bg-green text-white px-6 py-[15px] rounded-[5px]">
             ADD TO CART
           </button>
         </div>
@@ -27,7 +27,7 @@ const Carousel = () => {
 
 
 {/* Image */}
-      <div className="w-[30%] lap:w-[50%]">
+      <div className="mt-2 w-[40%] lap:w-[50%]">
         <Image src={bg} alt="hero" className=" w-full h-full object-contain" />
 
 

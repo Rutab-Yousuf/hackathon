@@ -1,12 +1,18 @@
-import React from 'react'
-import ProductCards from '../components/ProductCards'
+import React from "react";
+import ProductCards from "../components/ProductCards";
+import Header from "../components/Header";
+import ProHero from "./components/ProHero";
 
 const product = () => {
   return (
     <div>
-        <ProductCards/>
-    </div>
-  )
-}
+      <Header />
 
-export default product
+      <ProHero />
+
+      <ProductCards />
+    </div>
+  );
+};
+
+export default product;
